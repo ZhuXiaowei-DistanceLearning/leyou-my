@@ -1513,7 +1513,7 @@
       <workItem from="1555994289583" duration="9582000" />
       <workItem from="1556007899821" duration="5079000" />
       <workItem from="1556013381083" duration="257000" />
-      <workItem from="1556014760364" duration="354000" />
+      <workItem from="1556014760364" duration="9041000" />
     </task>
     <task id="LOCAL-00001" summary="乐优商城后台">
       <created>1556011550832</created>
@@ -1529,7 +1529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556012824796</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="乐优商城后台">
+      <created>1556015127631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556015127631</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1565,7 +1572,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197267000" />
+    <option name="totallyTimeSpent" value="205954000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1577,7 +1584,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31183368" />
       <window_info id="Structure" order="1" weight="0.25" />
